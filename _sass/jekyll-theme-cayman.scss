@@ -366,6 +366,15 @@ a {
   @include small {
     font-size: 0.9rem;
   }
+
+}
+.site-member {
+  font-size: 14px;
+  margin-bottom: 26px;
+
+  a {
+    color: #666;
+  }
 }
 
 .site-footer-owner {
